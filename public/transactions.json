@@ -1,0 +1,47 @@
+[
+   {
+      "id": "T1001",
+      "date": "2023-07-22",
+      "description": "Withdrawal Transfer",
+      "amount": 2000.0,
+      "currency": "USD",
+      "status": "Completed",
+      "bank": "Sonali Bank"
+   },
+   {
+      "id": "T1002",
+      "date": "2023-07-21",
+      "description": "Withdrawal Transfer",
+      "amount": 39.99,
+      "currency": "USD",
+      "status": "Completed",
+      "bank": "Sonali Bank"
+   },
+   {
+      "id": "T1003",
+      "date": "2023-07-20",
+      "description": "Withdrawal Transfer",
+      "amount": 100.0,
+      "currency": "USD",
+      "status": "Completed",
+      "bank": "Sonali Bank"
+   },
+   {
+      "id": "T1004",
+      "date": "2023-07-19",
+      "description": "Withdrawal Transfer",
+      "amount": 120.5,
+      "currency": "USD",
+      "status": "Completed",
+      "bank": "Sonali Bank"
+   },
+   {
+      "id": "T1005",
+      "date": "2023-07-18",
+      "description": "Withdrawal Transfer",
+      "amount": 300.0,
+      "currency": "USD",
+      "status": "Completed",
+      "bank": "Sonali Bank"
+   }
+]

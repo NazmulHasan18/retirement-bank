@@ -1,0 +1,41 @@
+.progress-container {
+   /* width: 200px;
+   height: 200px; */
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.outer {
+   width: 100px;
+   height: 100px;
+   background: #d1fff5;
+   border-radius: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.outer::before {
+   content: "";
+   position: absolute;
+   width: 80px;
+   height: 80px;
+   background-color: white;
+   border-radius: 50%;
+}
+.value {
+   position: relative;
+   font-weight: 600;
+   font-size: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+   .outer {
+      width: 80px;
+      height: 80px;
+   }
+   .outer::before {
+      width: 65px;
+      height: 65px;
+   }
+}
